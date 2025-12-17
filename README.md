@@ -49,13 +49,8 @@ Developer → GitLab → Jenkins → Production Server
 
 ---
 
-## 🧠 Why This Matters
 
-This setup reflects **industry-standard DevOps practices** used in real production environments.
 
----
 
-## 📌 Disclaimer
 
-All names, IPs, and identifiers are anonymized.  
-This is a **case study for learning and interview discussion purposes**.
+
