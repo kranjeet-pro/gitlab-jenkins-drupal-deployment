@@ -2,7 +2,6 @@
 
 This repository documents a **real-world production CI/CD implementation** for a Drupal application.
 
-⚠️ No application source code is included.  
 This repository focuses on **architecture, automation strategy, security, and operational decisions**.
 
 ---
