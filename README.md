@@ -6,7 +6,7 @@ This repository focuses on **architecture, automation strategy, security, and op
 
 ---
 
-## 🚀 Project Summary
+## Project Summary
 
 - Automated CI/CD pipeline using **GitLab + Jenkins**
 - Zero-downtime production deployments
@@ -16,7 +16,7 @@ This repository focuses on **architecture, automation strategy, security, and op
 
 ---
 
-## 🏗 Architecture Overview
+## Architecture Overview
 
 Developer → GitLab → Jenkins → Production Server
 
@@ -26,7 +26,7 @@ Developer → GitLab → Jenkins → Production Server
 
 ---
 
-## 🔑 Key Features Implemented
+##  Key Features Implemented
 
 - Fully automated deployment on git push
 - Atomic release directories (`releases/`)
@@ -37,7 +37,7 @@ Developer → GitLab → Jenkins → Production Server
 
 ---
 
-## 📂 Documentation
+##  Documentation
 
 - Architecture design
 - CI/CD pipeline stages
